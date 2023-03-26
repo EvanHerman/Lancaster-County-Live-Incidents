@@ -1,0 +1,22 @@
+ul.lancaster-live-incidents {
+	background-color: #fff;
+	border: 1px solid #ccc;
+	border-radius: 3px;
+	box-shadow: 0 1px 1px rgba(0,0,0,.04);
+	padding: 10px 0;
+}
+
+ul.lancaster-live-incidents li {
+	border-bottom: 1px solid #ccc;
+	padding: 10px 15px;
+}
+
+ul.lancaster-live-incidents li:last-child {
+	border-bottom: none;
+	padding-bottom: 0;
+}
+
+ul.lancaster-live-incidents li p:first-child {
+	font-weight: 600;
+	margin-top: 0;
+}
